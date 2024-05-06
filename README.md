@@ -1,5 +1,4 @@
 ## JavaScript Take Notes!  
-By taking inspiration from the Keep Notes App from Google, I designed and constructed from scratch this Notes App!  
 You can write anything on the Note, it features text styling tools to help you write notes the way you want them to look like.  
 ### Features  
   - Notes can be **Dragged and Dropped** after you hold them for a certain amount of time.  
